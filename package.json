@@ -1,0 +1,8 @@
+{
+  "name": "developer-helpers",
+  "version": "0.1.0",
+  "description": "This is a helper guide for new developers to save time in studies or practices of software development.",
+  "main": "index.js",
+  "author": "Rafael Carvalho",
+  "license": "MIT"
+}
